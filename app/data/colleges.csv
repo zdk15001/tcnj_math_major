@@ -1,0 +1,14 @@
+unitid,college,full_name,city,lon,lat,math_2023,math_2024,math_2025,all_degrees,math_degrees,math_per_100,applicants,admitted,admit_per_100,sat_sent_per_100,sat_math_25,sat_math_50,sat_math_75,opeid6,earn_note,earn_4yr,earn_n,earn_national,earn_name
+183822,Bloomfield College,Bloomfield College of Montclair State University,Bloomfield,-74.194309,40.795105,2,13,0,733,15,2,1596,1113,70,2,NA,NA,NA,NA,no Mathematics row,NA,NA,NA,Bloomfield College
+185262,Kean,Kean University,Union,-74.233503,40.677981,25,29,24,7155,78,1.1,13936,10578,76,1,470,510,585,002622,reported,59082,73,69562,Kean
+185129,Kean Jersey City (was NJCU),New Jersey City University,Jersey City,-74.08727,40.709937,16,13,14,3087,43,1.4,5679,5587,98,NA,NA,NA,NA,002613,reported,58323,36,69562,Kean Jersey City (was NJCU)
+185590,Montclair State,Montclair State University,Montclair,-74.198141,40.860414,31,25,26,11448,82,0.7,26257,23076,88,9,430,520,590,002617,reported,68371,60,69562,Montclair State
+185828,NJIT,New Jersey Institute of Technology,Newark,-74.177113,40.741997,27,23,23,5348,73,1.4,15607,10156,65,45,610,680,750,002621,reported,94840,37,69562,NJIT
+186201,Ramapo,Ramapo College of New Jersey,Mahwah,-74.174086,41.080942,5,8,8,3443,21,0.6,8976,6341,71,25,550,590,650,009344,hidden for privacy,NA,NA,69562,Ramapo
+184782,Rowan,Rowan University,Glassboro,-75.119119,39.709108,43,34,44,12480,121,1,19593,15216,78,27,550,600,650,002609,reported,63146,70,69562,Rowan
+186371,Rutgers-Camden,Rutgers University-Camden,Camden,-75.12224,39.948064,1,5,8,3447,14,0.4,32840,21768,66,23,510,585,660,002629,reported,81845,142,69562,Rutgers (all 3 campuses)
+186380,Rutgers-New Brunswick,Rutgers University-New Brunswick,New Brunswick,-74.446251,40.498769,153,153,118,25807,424,1.6,68614,39899,58,50,660,720,770,002629,reported,81845,142,69562,Rutgers (all 3 campuses)
+186399,Rutgers-Newark,Rutgers University-Newark,Newark,-74.175809,40.739122,20,9,5,5032,34,0.7,36793,26254,71,NA,NA,NA,NA,002629,reported,81845,142,69562,Rutgers (all 3 campuses)
+186876,Stockton,Stockton University,Galloway,-74.531087,39.492036,23,26,17,6018,66,1.1,10520,9357,89,25,500,560,610,009345,reported,64242,43,69562,Stockton
+187134,TCNJ,The College of New Jersey,Ewing,-74.778791,40.268651,57,54,34,4916,145,2.9,12766,7952,62,39,570,620,670,002642,reported,91736,38,69562,TCNJ
+187444,William Paterson,William Paterson University of New Jersey,Wayne,-74.200248,40.945255,10,10,8,5713,28,0.5,9165,8256,90,0,NA,NA,NA,002625,reported,71340,25,69562,William Paterson
