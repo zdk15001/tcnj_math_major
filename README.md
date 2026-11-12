@@ -1,3 +1,4 @@
+# This dashboard was created entirely using Claude's 5.2 Fable on 11/11/2026. There are many errors!
 # Which New Jersey public college should a future math major pick?
 
 A decision dashboard for the STA 220 final project.
